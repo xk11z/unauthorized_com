@@ -2,6 +2,13 @@
 # 说明
 未授权检测的命令行版V1.0，支持批量检测，导出结果，项目参考sqlmap使用随机user-agent。本项目有两个版本，一个是带有GUI界面的，一个是命令行版本，未授权检测目前不包括默认密码检测
 # 使用
+git clone https://github.com/xk11z/unauthorized_com  
+cd unauthorized_com  
+pip install -r requestments.txt  
+python unauthorized_com.py
+![新](https://user-images.githubusercontent.com/126586204/235645909-5bae142b-bc86-47b1-a783-7788fe84e1f8.PNG)
+
+# 项目截图
 ![命令行1](https://user-images.githubusercontent.com/126586204/235634475-167faeea-94c2-4b9e-8431-6725cdcb94d1.PNG)
 
 可设置线程，检测单个服务
