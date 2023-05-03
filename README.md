@@ -17,10 +17,6 @@ python unauthorized_com.py
 ![jb](https://user-images.githubusercontent.com/126586204/235634788-27fc9bfb-2243-45d0-8bdf-54dd82a132df.PNG)
 
 
-结果
-
-
-![导出结果](https://user-images.githubusercontent.com/126586204/235638359-5a560012-b24c-4da3-9db6-09129a249e51.PNG)
 
 
 # 免责声明
